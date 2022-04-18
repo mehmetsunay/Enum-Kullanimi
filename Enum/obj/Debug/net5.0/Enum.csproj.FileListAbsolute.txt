@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CsharpPart3\Enum\bin\Debug\net5.0\Enum.exe
+C:\Users\User\source\repos\CsharpPart3\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\User\source\repos\CsharpPart3\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Users\User\source\repos\CsharpPart3\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Users\User\source\repos\CsharpPart3\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\User\source\repos\CsharpPart3\Enum\bin\Debug\net5.0\ref\Enum.dll
+C:\Users\User\source\repos\CsharpPart3\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\User\source\repos\CsharpPart3\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
