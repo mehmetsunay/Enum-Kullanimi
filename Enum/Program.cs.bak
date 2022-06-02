@@ -19,7 +19,7 @@ namespace Enum
         //Önemli bir yeri vardır çünkü tekrar yazımları kodları engeller Hız ve verim kazandırır
         enum Kategoriler
         {
-            Tuhafiye = 3,
+            Elektronik = 3,
             Hırdavat =2,
             Gıda=1,
             Güzellik=4,
