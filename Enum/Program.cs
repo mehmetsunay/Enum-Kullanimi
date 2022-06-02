@@ -23,7 +23,7 @@ namespace Enum
             Hırdavat =2,
             Gıda=1,
             Güzellik=4,
-            Giyim = 5
+            Temizlik = 5
 
         }
 
